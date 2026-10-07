@@ -209,5 +209,3 @@ Based on the analysis:
 **Jana M**
 
 Computer Science Engineering Graduate
-
-Interested in **Data Analytics, Business Analytics, Supply Chain Analytics, and Decision Intelligence**.
