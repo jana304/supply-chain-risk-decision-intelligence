@@ -68,12 +68,12 @@ The project uses the **DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS** dataset
 
 ### Machine Learning Target
 
-```text
 Late_delivery_risk
 
 1 = At Risk
 0 = No Risk
-🚨 Supply Chain Risk Analysis
+
+### Supply Chain Risk Analysis
 
 The project analyzes delivery risk across different operational dimensions.
 
@@ -108,14 +108,15 @@ A Random Forest Classifier was developed to predict late-delivery risk using ord
 
 Post-outcome variables such as Delivery Status and actual shipping days were excluded to reduce data leakage.
 
-💡 Key Findings
+###💡 Key Findings
 First Class has the highest observed late-delivery risk at 95.32%.
 Second Class shows 76.63% late-delivery risk.
 Standard Class has a lower risk rate but significant financial exposure due to its larger order volume.
 Approximately 54.83% of order items carry a late-delivery risk label.
 Risk levels across regions are relatively close compared with the differences between shipping modes.
 Combining risk rate, order volume, and financial exposure provides a better basis for operational prioritization.
-📁 Project Structure
+
+###📁 Project Structure
 Supply-Chain-Risk-Decision-Intelligence/
 │
 ├── data/
@@ -140,7 +141,8 @@ Supply-Chain-Risk-Decision-Intelligence/
 │
 ├── .gitignore
 └── README.md
-🧠 Skills Demonstrated
+
+###🧠 Skills Demonstrated
 Supply Chain Analytics
 Logistics & Operations Analytics
 Data Cleaning
@@ -157,7 +159,8 @@ Financial Exposure Analysis
 Risk Analysis
 Business Decision Support
 Data Storytelling
-🎯 Business Recommendations
+
+###🎯 Business Recommendations
 
 Based on the analysis:
 
@@ -167,7 +170,8 @@ Prioritize operational areas using both risk percentage and financial exposure.
 Closely monitor high-value orders carrying delivery risk.
 Compare shipping performance across regions and markets.
 Use predictive risk scores to support proactive operational monitoring.
-👤 Author
+
+###👤 Author
 
 Jana M
 
